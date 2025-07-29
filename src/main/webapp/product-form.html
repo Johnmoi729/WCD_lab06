@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Thêm Sản Phẩm</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+<h1>Thêm sản phẩm</h1>
+<form action="product" method="post">
+    <label>Tên sản phẩm: </label>
+    <input type="text" name="name" required><br>
+
+    <label>Giá: </label>
+    <input type="number" name="price" step="0.01" min="0" required><br>
+
+    <input type="submit" value="Thêm">
+</form>
+<a href="product">Xem danh sách sản phẩm</a>
+</body>
+</html>
