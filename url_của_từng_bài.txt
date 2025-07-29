@@ -1,0 +1,15 @@
+Bài 2 Lab 06:
+
+Truy cập http://localhost:8080/lab_06_war_exploded/index.html
+
+Nhập thông điệp → Header và nội dung được kết hợp
+
+Bài 3 Lab 06:
+
+Truy cập http://localhost:8080/lab_06_war_exploded/user-form.html
+
+Thêm người dùng → Xem danh sách trong session
+
+Case Study:
+
+Truy cập http://localhost:8080/lab_06_war_exploded/product-form.html
